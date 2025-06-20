@@ -146,7 +146,7 @@
             }
         }
 
-        // Add floating CTA button
+        /* Add floating CTA button
         function createFloatingCTA() {
             const floatingBtn = document.createElement('div');
             floatingBtn.innerHTML = `
@@ -174,7 +174,7 @@
             `;
             document.body.appendChild(floatingBtn);
         }
-
+        */
         // Enhanced typing effect for subtitle
         function typeWriterEffect() {
             const subtitle = document.querySelector('.subtitle');
